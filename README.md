@@ -6,9 +6,13 @@ Use https://www.textfixer.com/html/convert-text-html.php to convert your documen
 
 Any html layer request not using the standard template will be denied.
 
-Read the basics on HTML before opening a pull request or commiting files:
+Read the basics on HTML and git before opening a pull request or commiting files:
 https://www.geeksforgeeks.org/html-basics/
 https://www.w3schools.com/html/html_basic.asp
+https://www.tutorialspoint.com/git/
+
+Here is an advanced git resource for contributors:
+https://git-scm.com/book/en/v2
 
 First some *GUIDELINES* *READ THIS BEFORE CONTRIBUTING ANYTHING*:
 1. You do NOT talk about BURGERPUNK with /tv/.
