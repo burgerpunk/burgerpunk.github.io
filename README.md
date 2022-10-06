@@ -10,6 +10,7 @@ Read the basics on HTML and git before opening a pull request or commiting files
 https://www.geeksforgeeks.org/html-basics/
 https://www.w3schools.com/html/html_basic.asp
 https://www.tutorialspoint.com/git/
+https://www.interviewbit.com/blog/features-of-html/
 
 Here is an advanced git resource for contributors:
 https://git-scm.com/book/en/v2
